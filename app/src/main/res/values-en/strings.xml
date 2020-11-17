@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Manillas</string>
+    <string name="titulo">Sale Handles</string>
+    <string name="material">Material</string>
+    <string name="cantidad">Amount</string>
+    <string name="dije">Pendant</string>
+    <string name="tipo">Type</string>
+    <string name="moneda">Coin</string>
+    <string name="calcular_precio">Calculate Price</string>
+    <string name="material_cuero">Leather</string>
+    <string name="material_cuerda">Rope</string>
+    <string name="dije_martillo">Hammer</string>
+    <string name="dije_ancla">Anchor</string>
+    <string name="tipo_oro">Gold</string>
+    <string name="tipo_oro_rosado">Pink Gold</string>
+    <string name="tipo_plata">Silver</string>
+    <string name="tipo_niquel">Nickel</string>
+    <string name="moneda_peso">Peso</string>
+    <string name="moneda_dolar">Dollar</string>
+    <string name="dolares">Dollars</string>
+    <string name="pesos">Pesos</string>
+    <string name="error_ingrese_cantidad">Enter amount</string>
+</resources>
